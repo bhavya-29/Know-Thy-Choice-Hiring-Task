@@ -1,0 +1,73 @@
+{
+    "Data Science Internship": [
+        "Introduction to The World Of Data Science",
+        "Preparation Data & picking Attributes",
+        "Data Cleaning",
+        "Data Exploration And Analysis",
+        "Data Modeling",
+        "Data Validation",
+        "Project: Analyze data for a real case study",
+        "End of Intern Presentations & Evaluation"
+    ],
+    "Digital Marketing Internship": [
+        "Introduction to Digital Marketing",
+        "How is digital marketing different from other types of marketing",
+        "Channels and audiences",
+        "How to choose a medium",
+        "Types of digital marketing",
+        "Targeting and campaigns",
+        "Metrics and analytics",
+        "Group Assignment",
+        "Case Study",
+        "Project Presentation & Evaluation"
+    ],
+    "Entrepreneurship": [
+        "How to get ideas?",
+        "How to talk to users?",
+        "How to build an MVP?",
+        "How to launch?",
+        "What are metrics and how to track them?",
+        "Market sizing and why is it itmportant?",
+        "Who is a co-founder and how to find a perfect co-founder?",
+        "What is pivoting?",
+        "Business Model and Revenue streams",
+        "What is GTM?",
+        "What is market validation?",
+        "How to scale?",
+        "How to pitch your startup?",
+        "Project presentation & evaluation"
+    ],
+    "Marketing Internship": [
+        "Introduction to Marketing",
+        "Sales vs Marketing",
+        "How to create a marketing plan?",
+        "Segmentation, Targeting and Positioning- know - your customer",
+        "Consumer vs customer",
+        "Product, Place, Price, Promotion",
+        "Market Research",
+        "Types of Marketing",
+        "Case Study 1",
+        "Case Study 2",
+        "Project Presentation and Evaluation"
+    ],
+    "Technology Internship": [
+        "Introduction to Technology",
+        "Identifying Problems That Need a Solution",
+        "The Tech Revolution: Creating & Evaluating Solutions",
+        "From Zero to One: Building your \u201cMinimum Viable Product\u201d",
+        "Building User Flows & Mockups",
+        "Designing & Coding Logic",
+        "Introduction to Thunkable",
+        "Project: Developing a product using Thunkable",
+        "End of Intern Presentations & Evaluation"
+    ],
+    "UX Design Internship": [
+        "Introduction to UX designing",
+        "Stages in a UX project",
+        "User research and profiling",
+        "Insights",
+        "Usability Testing",
+        "Creating designs",
+        "Project Presentation"
+    ]
+}
