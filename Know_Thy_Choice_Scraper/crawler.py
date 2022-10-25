@@ -1,6 +1,5 @@
 #Importing all the required libraries
 import time
-import bs4
 from bs4 import BeautifulSoup
 from selenium.common.exceptions import *
 from selenium import webdriver
