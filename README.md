@@ -3,8 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Requirements](#requirements)
+* [How to run](#how-to-run)
 * [References](#references)
 
 ## General info
@@ -15,15 +14,22 @@ Project is created with:
 * Python
 * Beautiful Soup, Selenium and other necessary python modules
 	
-## Setup
+## How to Run
 To run this project,
-* Open a terminal and run crawler.py file ($python crawler.py) [or]
-* Open an IDE to run python files [Thony,VSCode...] and run crawler.py
+* Open the Know_Thy_Choice_Scraper folder in VSCode or go to the location of the folder in your terminal.
+* Install the reqirements by using the following command in the terminal
+```
+$ pip install -r requirements.txt
+```
+* run crawler.py file
+```
+$ python3 crawler.py
+```
+[or]
+```
+$ python crawler.py
+```
 * output.json is the output file
-
-## Requirements
-* Install Python and its related libraries
-* Install Beautiful Soup, Selenium
 
 ## References
 * [https://scrapy.org/](https://scrapy.org/)
